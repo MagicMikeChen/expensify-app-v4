@@ -17,6 +17,7 @@ const googleAuthProvider = new firebase.auth.GoogleAuthProvider();
 
 export { firebase, googleAuthProvider, database as default };
 
+// Using a popup.
 
 
 
